@@ -38,7 +38,7 @@ pricing policy of our system.
 credited with the amount of profit they have made so far.
 ❏All of the transactions in different phases mentioned above will be done using any of the existing online and mobile payment services.
 A diagrammatic illustration of our entire model is shown in the following figure.
-![Work flow diagram](workflow.PNG)
+![Work flow diagram](work_flow_diagram.PNG)
 ## Advances:  
 - Useful utilization of existing technology for the betterment of the food market.  
 - Reduce the inessential intermediaries of conventional systems.  
