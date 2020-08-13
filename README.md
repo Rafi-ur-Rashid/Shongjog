@@ -35,7 +35,7 @@ those who are interested to buy foodstuffs in wholesale.
 ❏ Clients will have the choice to make a deal with any of them and sell their purchased goods as per the
 pricing policy of our system.  
 ❏ Finally, after successfully completing the retrieval of the foodstuffs, the client's account will be
-credited with the amount of profit they have made so far.
+credited with the amount of profit they have made so far.  
 ❏All of the transactions in different phases mentioned above will be done using any of the existing online and mobile payment services.
 A diagrammatic illustration of our entire model is shown in the following figure.
 ![Work flow diagram](work_flow_diagram.png)
